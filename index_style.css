@@ -1,0 +1,43 @@
+img {
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
+
+#intro {
+    font-family: cursive;
+    font-size: x-large;
+    color:blue;
+}
+
+* {
+    background-color:#ffe6e6;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    background-color: seashell;
+   }
+
+.copyright {
+    text-align: right;
+    font-style: italic;
+}
+button {
+    color: white;
+    background-color: blueviolet;
+}
+.ingredients {
+    font-style: italic;
+    color: crimson;
+}
+.list {
+    color: black;
+}
+.end {
+    font-family: sans-serif;
+    font-style: oblique;
+    color: darkgoldenrod;
+}
